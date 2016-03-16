@@ -4,8 +4,8 @@
 ## 使用方法
 
 ### 依赖
-Python 2.x
-BeautifulSoup4
+* Python 2.x
+* BeautifulSoup4
 
 ### 运行
 1. 编辑src/blacklist.txt，加入你想屏蔽的id
