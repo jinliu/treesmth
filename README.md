@@ -9,7 +9,7 @@
 
 ### 运行
 1. 编辑src/blacklist.txt，加入你想屏蔽的id
-2. cd src; python main.py <端口号>
+2. cd src; python2 main.py <端口号>
 3. 用浏览器打开http://localhost:<端口号>
 
 ## 功能规划
