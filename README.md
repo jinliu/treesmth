@@ -1,6 +1,17 @@
 # treesmth
 为水木社区增加树状视图和用户黑名单。
 
+## 使用方法
+
+### 依赖
+Python 2.x
+BeautifulSoup4
+
+### 运行
+1. 编辑src/blacklist.txt，加入你想屏蔽的id
+2. cd src; python main.py <端口号>
+3. 用浏览器打开http://localhost:<端口号>
+
 ## 功能规划
 ### 黑名单
 * 隐藏指定id的发帖
